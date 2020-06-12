@@ -1,4 +1,4 @@
-# Hitachi_Pull_Request
+# Introduction
 
 At the "code" folder you have the entire project. With a Readme to help you compile.
 
