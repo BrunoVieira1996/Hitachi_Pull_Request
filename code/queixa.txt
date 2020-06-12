@@ -1,0 +1,14 @@
+Laptop: Lenovo P51s
+
+Issue: 
+
+Note: Some keys are not working due to some minor damage.
+
+Serial: yuHi8-98KlpoQ
+
+Data: 12-06-2020
+
+Name: Sérgio Miguel
+
+Email: example@gmail.com
+
